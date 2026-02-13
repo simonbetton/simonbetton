@@ -19,7 +19,7 @@
   <a href="https://www.linkedin.com/in/simonbetton">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Simon%20Betton-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/simonbetton">
+  <a href="https://x.com/betts0n">
     <img alt="X" src="https://img.shields.io/badge/X-@simonbetton-111827?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=simonbetton&style=for-the-badge&color=0ea5e9" />
@@ -117,7 +117,7 @@ I set standards for TypeScript services and tooling, lead cross-team architectur
 
 - **Website**: `https://simonbetton.com`
 - **LinkedIn**: `https://www.linkedin.com/in/simonbetton`
-- **X**: `https://x.com/simonbetton`
+- **X**: `https://x.com/betts0n`
 
 <div align="center">
 <br/>
