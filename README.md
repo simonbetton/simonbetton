@@ -1,7 +1,7 @@
 <div align="center">
   <img
     alt="Simon Betton | Principal Software Engineer"
-    src="https://www.simonbetton.com/images/github-header.png"
+    src="https://www.simonbetton.com/images/github-header.png?v2"
   />
 </div>
 
@@ -124,6 +124,6 @@ I set standards for TypeScript services and tooling, lead cross-team architectur
 <br/>
   <img
     alt=""
-    src="https://www.simonbetton.com/images/github-footer.png"
+    src="https://www.simonbetton.com/images/github-footer.png?v2"
   />
 </div>
